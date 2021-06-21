@@ -46,10 +46,8 @@ Mayapy使用的Python2.7\textbf{并非通用的CPython实现}，需要手动打�
 
 
 # 项目结果
+![image](../img/UB7P5TCOI5RWPW8K34GJ_H4.png)
 
-xxx. (这里放置来自你最终匹配结果的截图， 如
-
-![image](../img/pose2carton.png))
 ![image](../img/3H9W2A0VIKWM6@3[$DFHAK3.png)
 
 
